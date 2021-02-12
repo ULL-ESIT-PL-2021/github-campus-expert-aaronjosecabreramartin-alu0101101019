@@ -13,7 +13,7 @@ Para la realización de esta práctica se nos pedía:
 Para obtener las ventajas del pack de estudiante en Github he seguido el enlace que nos ha proporcionado el profesor y he hecho click en "_Get your pack_". 
 _**Nota**: No tengo capturas de esto porque lo hice el año pasado en otra asignatura y ya disponía de dicho pack._
 
-![PerfilPro](/Capturas/PerfilPro.PNG)
+![PerfilPro](/Capturas/perfilPro.PNG)
 Se puede observar como dispongo de la insignia de "_PRO_" la cual te otorgan, entre otras ventajas, cuando te aceptan el StudentPack.
 
 ### Entrar en la organización de PL
