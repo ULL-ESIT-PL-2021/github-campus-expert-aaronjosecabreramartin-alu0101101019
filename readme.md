@@ -27,4 +27,4 @@ Se puede observar como pertenezco a la organización.
 
 ### Crear un repositorio
 
-![Repo](/Capturas/repo1)
+![Repo](/Capturas/repo1.PNG)
