@@ -21,11 +21,3 @@ Accediendo al enlace que nos dejó el profesor para ello y aceptando el rol que 
 
 ![Organizacion](/Capturas/organizacion.PNG)
 Se puede observar como pertenezco a la organización.
-
-### Crear un proyecto en la organización
-Para crear un proyecto debemos crear un repositorio dentro de la organización y dentro de ese repositorio crear el proyecto.
-![Repositorio](/Capturas/repo1.PNG)
-![CreateProyect](/Capturas/creatingProyect.PNG)
-Al crear el proyecto se nos ha pedido que establezcamos el proyect template a tipo "_Automated Kanban_"
-![Proyect](/Capturas/proyect1.PNG)
-Se pueden observar las listas de tareas "**To Do**", "**In progress**" y "**Done**".
